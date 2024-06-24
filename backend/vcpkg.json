@@ -1,0 +1,10 @@
+{
+    "dependencies": [
+        "abseil",
+        "fmt",
+        "range-v3",
+        "gtest",
+        "nlohmann-json",
+        "crow"
+    ]
+}
